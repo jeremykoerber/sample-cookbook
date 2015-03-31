@@ -2,4 +2,5 @@
 
 Re-creation of clowns/bears from Chef Fundamentals
 - Moar Features!
+- Testing syntax using knife!
 
